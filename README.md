@@ -1,34 +1,46 @@
 UIUX-TASK 
 <br>
-# Learnly – Education Landing Page
+# Japanese KitKat – Product Landing Page
 
 ## Project Overview
-Learnly is a modern educational landing page designed in Figma. The project focuses on presenting online learning opportunities through a clean, user-friendly, and responsive interface.
+A Japanese KitKat product landing page concept showcasing unique Japanese flavors, attractive product packaging, and Japanese-inspired visual design.
+
+The project combines modern e-commerce UI patterns with elements inspired by Japanese culture to create an engaging product discovery experience.
 
 ## Features
 - Responsive desktop and mobile layouts
-- Clean and modern user interface
-- Hero section introducing the learning platform
-- Clear call-to-action buttons
-- Organized content sections
-- User-friendly navigation
+- Product-focused hero section
+- Featured Japanese KitKat flavors
+- Product cards with pricing
+- Brand story section
+- Shopping call-to-action sections
 - Reusable UI components
-- Auto Layout for responsive design
+- Consistent typography and color palette
+
+## Featured Flavors
+- Matcha
+- Sakura
+- Ruby Chocolate
+- Hojicha
 
 ## Tools Used
 - Figma
+- UI/UX Design
 - Auto Layout
-- Components
-- Color variables
-
-## Target Audience
-Students, professionals, and lifelong learners looking for convenient online learning opportunities.
+- Components and Variables
+- Responsive Layout Design
 
 ## Design Approach
-The design emphasizes simplicity, readability, and accessibility. The page structure helps users understand the platform's purpose and explore learning opportunities easily. Consistent spacing, typography, and reusable components help maintain a cohesive visual design.
+The design combines KitKat red with cream, cherry blossom pink, and matcha green. Japanese-inspired scenery and product imagery create a visual connection to Japan, while clear navigation and structured product cards support an intuitive browsing experience.
 
-## Figma Project
-[View the Learnly Design](https://www.figma.com/design/iHIIsc0eK7Ne4B2ifhfN9e/Learnly-%E2%80%94-Responsive-Product-Landing-Page?node-id=0-1&m=dev&t=ug85ZNWi8DI3lPkH-1)
+## Target Audience
+Chocolate lovers, travelers, Japanese culture enthusiasts, and customers interested in discovering unique confectionery flavors.
+
+## Figma Design
+[View the Japanese KitKat Landing Page](https://www.figma.com/design/NSK4YfORvSMuv3f9K8S4gI/Untitled?node-id=0-1&m=dev&t=HSlW02qhZyInUITB-1)
+
+## Disclaimer
+This is an independent UI/UX design concept created for educational and portfolio purposes. KitKat and related brand assets belong to their respective owners. This project is not affiliated with or endorsed by Nestlé.
 
 ## Author
-Created as a UI/UX design assignment.
+Created as a UI/UX design project.
