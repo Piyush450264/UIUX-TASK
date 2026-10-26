@@ -1,1 +1,2 @@
-Responsive Product Landing Page.fig
+UIUX-TASK
+Learnly-Responsive Product Landing Page.fig
