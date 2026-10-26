@@ -28,7 +28,7 @@ Students, professionals, and lifelong learners looking for convenient online lea
 The design emphasizes simplicity, readability, and accessibility. The page structure helps users understand the platform's purpose and explore learning opportunities easily. Consistent spacing, typography, and reusable components help maintain a cohesive visual design.
 
 ## Figma Project
-[View the Learnly Design](PASTE_YOUR_LEARNLY_FIGMA_LINK_HERE)
+[View the Learnly Design](https://www.figma.com/design/iHIIsc0eK7Ne4B2ifhfN9e/Learnly-%E2%80%94-Responsive-Product-Landing-Page?node-id=0-1&m=dev&t=ug85ZNWi8DI3lPkH-1)
 
 ## Author
 Created as a UI/UX design assignment.
