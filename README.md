@@ -1,22 +1,34 @@
 UIUX-TASK 
 <br>
-Project Title: Learnly — Responsive Product Landing Page
-<br>
+# Learnly – Education Landing Page
 
-**Objective:**
-The objective of this project is to design a visually appealing and responsive landing page for a fictional online learning platform using Figma.
+## Project Overview
+Learnly is a modern educational landing page designed in Figma. The project focuses on presenting online learning opportunities through a clean, user-friendly, and responsive interface.
 
-**Target Audience:**
-The platform is designed for students, beginners, and professionals who want to develop new skills through flexible online courses.
+## Features
+- Responsive desktop and mobile layouts
+- Clean and modern user interface
+- Hero section introducing the learning platform
+- Clear call-to-action buttons
+- Organized content sections
+- User-friendly navigation
+- Reusable UI components
+- Auto Layout for responsive design
 
-**Design Approach:**
-The landing page uses a clean layout, consistent typography, a purple-based color palette, and clear calls to action. It includes a header, hero section, feature cards, a three-step explanation of the learning process, and a footer.
+## Tools Used
+- Figma
+- Auto Layout
+- Components
+- Color variables
 
-**Figma Features Used:**
-- Auto Layout for organizing interface elements.
-- Reusable components for buttons and feature cards.
-- Shared color variables for visual consistency.
-- Desktop and mobile frames to demonstrate responsive design.
+## Target Audience
+Students, professionals, and lifelong learners looking for convenient online learning opportunities.
 
-**Conclusion:**
-This project demonstrates the use of fundamental UI design principles and Figma features to create a consistent, reusable, and responsive product landing page.
+## Design Approach
+The design emphasizes simplicity, readability, and accessibility. The page structure helps users understand the platform's purpose and explore learning opportunities easily. Consistent spacing, typography, and reusable components help maintain a cohesive visual design.
+
+## Figma Project
+[View the Learnly Design](PASTE_YOUR_LEARNLY_FIGMA_LINK_HERE)
+
+## Author
+Created as a UI/UX design assignment.
